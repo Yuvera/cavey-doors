@@ -1,0 +1,9 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/law8/source/repos/Platformer/Platformer/Content/background.png","C:/Users/law8/source/repos/Platformer/Platformer/Content/bin/DesktopGL/background.xnb","TextureProcessor","Texture2DContent",5826,1536085,0.2675501
+"C:/Users/law8/source/repos/Platformer/Platformer/Content/bump.wav","C:/Users/law8/source/repos/Platformer/Platformer/Content/bin/DesktopGL/bump.xnb","SoundEffectProcessor","SoundEffectContent",10628,10689,0.8756018
+"C:/Users/law8/source/repos/Platformer/Platformer/Content/fanfare.wav","C:/Users/law8/source/repos/Platformer/Platformer/Content/bin/DesktopGL/fanfare.xnb","SoundEffectProcessor","SoundEffectContent",165188,110201,0.4166167
+"C:/Users/law8/source/repos/Platformer/Platformer/Content/jump.wav","C:/Users/law8/source/repos/Platformer/Platformer/Content/bin/DesktopGL/jump.xnb","SoundEffectProcessor","SoundEffectContent",5586,5647,0.3537201
+"C:/Users/law8/source/repos/Platformer/Platformer/Content/spriteSheet1.png","C:/Users/law8/source/repos/Platformer/Platformer/Content/bin/DesktopGL/spriteSheet1.xnb","TextureProcessor","Texture2DContent",3327,73813,0.0123853
+"C:/Users/law8/source/repos/Platformer/Platformer/Content/spriteSheet2.png","C:/Users/law8/source/repos/Platformer/Platformer/Content/bin/DesktopGL/spriteSheet2.xnb","TextureProcessor","Texture2DContent",2398,24661,0.0262033
+"C:/Users/law8/source/repos/Platformer/Platformer/Content/SymbolFont.spritefont","C:/Users/law8/source/repos/Platformer/Platformer/Content/bin/DesktopGL/SymbolFont.xnb","FontDescriptionProcessor","SpriteFontContent",2014,70690,0.1328512
+"C:/Users/law8/source/repos/Platformer/Platformer/Content/UI Font.spritefont","C:/Users/law8/source/repos/Platformer/Platformer/Content/bin/DesktopGL/UI Font.xnb","FontDescriptionProcessor","SpriteFontContent",2020,21538,0.0665777
