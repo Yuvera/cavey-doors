@@ -14,6 +14,7 @@ namespace PlatformerGame
         const float jumpSpeed = 3f;
         const float walkSpeed = 100f;
         public int lives = 3;
+        public bool outOfLives = false;
         SoundEffect jumpSnd, bumpSnd;
 
         public PlayerSprite(Texture2D newSpriteSheet, Texture2D newCollisionTxr, Vector2 newLocation, SoundEffect newJumpSnd, SoundEffect newBumpSnd) 
@@ -68,46 +69,48 @@ namespace PlatformerGame
             KeyboardState keyboardState = Keyboard.GetState();
             GamePadState gamePadState = GamePad.GetState(PlayerIndex.One);
 
-
-            if (!jumpIsPressed && !jumping && !falling &&
-            (keyboardState.IsKeyDown(Keys.W) || keyboardState.IsKeyDown(Keys.Space)
-                || gamePadState.IsButtonDown(Buttons.A)))
+            if (lives > 0)// player cant move if they are out of lives
             {
-                jumpIsPressed = true;
-                jumping = true;
-                walking = false;
-                falling = false;
-                spriteVelocity.Y -= jumpSpeed;
-                jumpSnd.Play();
-            }
+                if (!jumpIsPressed && !jumping && !falling &&
+                (keyboardState.IsKeyDown(Keys.W) || keyboardState.IsKeyDown(Keys.Space)
+                    || gamePadState.IsButtonDown(Buttons.A)))
+                {
+                    jumpIsPressed = true;
+                    jumping = true;
+                    walking = false;
+                    falling = false;
+                    spriteVelocity.Y -= jumpSpeed;
+                    jumpSnd.Play();
+                }
 
-            else if (jumpIsPressed && !jumping && !falling &&
-                !(keyboardState.IsKeyDown(Keys.W) || keyboardState.IsKeyDown(Keys.Space)
-                || gamePadState.IsButtonDown(Buttons.A)))
-            {
-                jumpIsPressed = false;
+                else if (jumpIsPressed && !jumping && !falling &&
+                    !(keyboardState.IsKeyDown(Keys.W) || keyboardState.IsKeyDown(Keys.Space)
+                    || gamePadState.IsButtonDown(Buttons.A)))
+                {
+                    jumpIsPressed = false;
 
-            }
+                }
 
-            if (keyboardState.IsKeyDown(Keys.A) || keyboardState.IsKeyDown(Keys.Left)
-                || gamePadState.IsButtonDown(Buttons.DPadLeft))
-            {
-                walking = true;
-                spriteVelocity.X = -walkSpeed * (float)gameTime.ElapsedGameTime.TotalSeconds;
-                flipped = true;
-            }
-            else if (keyboardState.IsKeyDown(Keys.D) || keyboardState.IsKeyDown(Keys.Right)
-                || gamePadState.IsButtonDown(Buttons.DPadRight))
-            {
-                walking = true;
-                spriteVelocity.X = walkSpeed * (float)gameTime.ElapsedGameTime.TotalSeconds;
-                flipped = false;
-            }
+                if (keyboardState.IsKeyDown(Keys.A) || keyboardState.IsKeyDown(Keys.Left)
+                    || gamePadState.IsButtonDown(Buttons.DPadLeft))
+                {
+                    walking = true;
+                    spriteVelocity.X = -walkSpeed * (float)gameTime.ElapsedGameTime.TotalSeconds;
+                    flipped = true;
+                }
+                else if (keyboardState.IsKeyDown(Keys.D) || keyboardState.IsKeyDown(Keys.Right)
+                    || gamePadState.IsButtonDown(Buttons.DPadRight))
+                {
+                    walking = true;
+                    spriteVelocity.X = walkSpeed * (float)gameTime.ElapsedGameTime.TotalSeconds;
+                    flipped = false;
+                }
 
-            else 
-            {
-                walking = false;
-                spriteVelocity.X = 0;
+                else
+                {
+                    walking = false;
+                    spriteVelocity.X = 0;
+                }
             }
 
             if ((falling || jumping) && spriteVelocity.Y < 500f) 

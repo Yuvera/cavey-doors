@@ -6,14 +6,34 @@
   <SourceFiles>
     <File>C:/Users/law8/source/repos/Platformer/Platformer/Content/background.png</File>
     <File>C:/Users/law8/source/repos/Platformer/Platformer/Content/bump.wav</File>
+    <File>C:/Users/law8/source/repos/Platformer/Platformer/Content/click.wav</File>
+    <File>C:/Users/law8/source/repos/Platformer/Platformer/Content/deathScreen.png</File>
+    <File>C:/Users/law8/source/repos/Platformer/Platformer/Content/die.wav</File>
     <File>C:/Users/law8/source/repos/Platformer/Platformer/Content/fanfare.wav</File>
+    <File>C:/Users/law8/source/repos/Platformer/Platformer/Content/gameover.mp3</File>
     <File>C:/Users/law8/source/repos/Platformer/Platformer/Content/jump.wav</File>
+    <File>C:/Users/law8/source/repos/Platformer/Platformer/Content/music1.mp3</File>
+    <File>C:/Users/law8/source/repos/Platformer/Platformer/Content/particle.png</File>
     <File>C:/Users/law8/source/repos/Platformer/Platformer/Content/spriteSheet1.png</File>
     <File>C:/Users/law8/source/repos/Platformer/Platformer/Content/spriteSheet2.png</File>
+    <File>C:/Users/law8/source/repos/Platformer/Platformer/Content/spriteSheet3.png</File>
     <File>C:/Users/law8/source/repos/Platformer/Platformer/Content/SymbolFont.spritefont</File>
+    <File>C:/Users/law8/source/repos/Platformer/Platformer/Content/tink.wav</File>
+    <File>C:/Users/law8/source/repos/Platformer/Platformer/Content/titleScreen.png</File>
     <File>C:/Users/law8/source/repos/Platformer/Platformer/Content/UI Font.spritefont</File>
+    <File>C:/Users/law8/source/repos/Platformer/Platformer/Content/UIItemSlots.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
