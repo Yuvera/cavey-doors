@@ -41,3 +41,7 @@ C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Content
 C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Content\gameover.xnb
 C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Content\particle.xnb
 C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Content\UIItemSlots.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Content\UIItemGem.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Content\UIItemKey.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Content\Controls\Button.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Content\endScreen.xnb

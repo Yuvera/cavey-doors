@@ -8,7 +8,7 @@ namespace PlatformerGame
     class Sprite
     {
 
-        Texture2D spriteSheet, collisionTexture;                // visible texture sheet, texture used to draw collision boxes
+        public Texture2D spriteSheet, collisionTexture;                // visible texture sheet, texture used to draw collision boxes
 
         public Vector2 spritePos, spriteVelocity,               // location of the sprite on-screen, velocity of the sprite in pixels per second
             spriteOrigin,                                       // where on the sprite is it's origin? (0f,0f) = top-left, (0.5f,1f) = bottom-middle, (0.5f,0.5f) = centre, etc
@@ -18,6 +18,7 @@ namespace PlatformerGame
         public bool flipped,                                    // whether the sprite should appear flipped horizontally
             isDead,                                             // whether the sprite should be marked for deletion
             isColliding, drawCollision;                         // whether collision is active, whether the collision box will be drawn on screen
+                                         
 
         int collPadding = 5;                                    // tweaks collision sensitivity for each edge, recommended = 5
 

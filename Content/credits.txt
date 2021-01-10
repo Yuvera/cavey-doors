@@ -1,0 +1,11 @@
+Background: by CreativeGameAssets.com https://opengameart.org/content/2d-backgrounds-for-platformer-game-dungeons-and-cave-parallax-vector-illustration
+Game Over sound: "Fail Sound Effect - Accoustic Guitar" by florianreichelt https://www.instagram.com/florianreichelt/ https://freesound.org/people/florianreichelt/sounds/412427/
+Key sound: "Glass_tink_5.mp3" by NikitaGusev https://freesound.org/people/NikitaGusev/sounds/509354/
+Death sound: "Explosion3.wav" by n_audioman https://freesound.org/people/n_audioman/sounds/320366/
+Walk sound: "Footstep on wood" by SoundsAreGr8 https://freesound.org/people/SoundsAreGr8/sounds/340983/
+Gem Sound: "Item Sparkle"  by Mr._Fritz_ https://freesound.org/people/Mr._Fritz_/sounds/545238/
+Jump Sound: "boing1.wav" by Greenhourglass https://freesound.org/people/Greenhourglass/sounds/159376/
+Background Music: "8bit drum loop" by Keffy.Stay https://freesound.org/people/Keffy.Stay/sounds/167849/
+UI Text font: "Eight-Bit Madness" by Tsunamical https://www.dafont.com/eight-bit-madness.font
+UI Symbol font: "WolveSymbol" by Wolvesword Azure Lupus https://www.dafont.com/wolvesymbol.font
+Win Screen SFX: "Cheer crowd" by Johanneskristjansson https://freesound.org/people/Johanneskristjansson/sounds/371339/

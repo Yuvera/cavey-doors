@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SourceFile>C:/Users/law8/source/repos/Platformer/Platformer/Content/UIItemSlots.png</SourceFile>
-  <SourceTime>2020-12-07T13:47:10.5619737+00:00</SourceTime>
+  <SourceTime>2020-12-14T15:05:04.8752028+00:00</SourceTime>
   <DestFile>C:/Users/law8/source/repos/Platformer/Platformer/Content/bin/DesktopGL/UIItemSlots.xnb</DestFile>
-  <DestTime>2020-12-10T11:19:04.9298665+00:00</DestTime>
+  <DestTime>2021-01-06T23:12:26.1675369+00:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T16:17:54+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

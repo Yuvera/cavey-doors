@@ -11,9 +11,9 @@ namespace PlatformerGame
     class PlayerSprite : Sprite
     {
         bool jumping, walking, falling, jumpIsPressed;
-        const float jumpSpeed = 3f;
+        const float jumpSpeed = 3.6f;
         const float walkSpeed = 100f;
-        public int lives = 3;
+        public int lives = 5;
         public bool outOfLives = false;
         SoundEffect jumpSnd, bumpSnd;
 
@@ -159,11 +159,12 @@ namespace PlatformerGame
                     falling = true;
                 }
 
-                if (walking) setAnim(1);
-                else if (falling) setAnim(3);
-                else if (jumping) setAnim(2);
-                else setAnim(0);
-            }
+                if (walking) setAnim(1); // if walking is set to true, switch the Anim set to the walking set
+                else if (falling) setAnim(3); // if falling is set to true, switch the Anim set to the falling set
+                else if (jumping) setAnim(2); // if jumping is set to true, switch the Anim set to the jumping set
+                else setAnim(0); // if none of the above happens, then the idle animation will play
+            }   
+
         }
 
         public void ResetPlayer(Vector2 newPos)
