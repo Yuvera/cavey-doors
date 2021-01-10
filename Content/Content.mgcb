@@ -195,9 +195,3 @@
 /processorParam:TextureFormat=Color
 /build:UIItemSlots.png
 
-#begin youWin.wav
-/importer:WavImporter
-/processor:SoundEffectProcessor
-/processorParam:Quality=Best
-/build:youWin.wav
-

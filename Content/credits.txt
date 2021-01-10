@@ -8,4 +8,3 @@ Jump Sound: "boing1.wav" by Greenhourglass https://freesound.org/people/Greenhou
 Background Music: "8bit drum loop" by Keffy.Stay https://freesound.org/people/Keffy.Stay/sounds/167849/
 UI Text font: "Eight-Bit Madness" by Tsunamical https://www.dafont.com/eight-bit-madness.font
 UI Symbol font: "WolveSymbol" by Wolvesword Azure Lupus https://www.dafont.com/wolvesymbol.font
-Win Screen SFX: "Cheer crowd" by Johanneskristjansson https://freesound.org/people/Johanneskristjansson/sounds/371339/

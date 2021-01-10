@@ -45,3 +45,4 @@ C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Content
 C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Content\UIItemKey.xnb
 C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Content\Controls\Button.xnb
 C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Content\endScreen.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Content\youWin.xnb

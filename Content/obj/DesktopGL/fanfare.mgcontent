@@ -3,7 +3,7 @@
   <SourceFile>C:/Users/law8/source/repos/Platformer/Platformer/Content/fanfare.wav</SourceFile>
   <SourceTime>2020-11-23T15:30:49.9065224+00:00</SourceTime>
   <DestFile>C:/Users/law8/source/repos/Platformer/Platformer/Content/bin/DesktopGL/fanfare.xnb</DestFile>
-  <DestTime>2020-12-10T11:19:03.3690418+00:00</DestTime>
+  <DestTime>2021-01-10T05:46:15.0492353+00:00</DestTime>
   <Importer>WavImporter</Importer>
   <ImporterTime>2020-08-10T16:17:54+01:00</ImporterTime>
   <Processor>SoundEffectProcessor</Processor>

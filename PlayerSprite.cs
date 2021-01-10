@@ -13,7 +13,7 @@ namespace PlatformerGame
         bool jumping, walking, falling, jumpIsPressed;
         const float jumpSpeed = 3.6f;
         const float walkSpeed = 100f;
-        public int lives = 5;
+        public int lives = 4;
         public bool outOfLives = false;
         SoundEffect jumpSnd, bumpSnd;
 

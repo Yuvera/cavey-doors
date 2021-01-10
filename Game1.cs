@@ -15,7 +15,7 @@ namespace PlatformerGame
 
         Texture2D backgroundTxr, playerSheetTxr, platformSheetTxr, doorSheetTxr, whiteBox, deathScreenTxr, endScreenTxr, UIboxGem, UIboxKey, UIboxes; // create texture2d variables
         SpriteFont UITextFont, symbolFont; // create font variables
-        SoundEffect jumpSnd, bumpSnd, dieSnd, fanfareSnd, keySnd, winSnd; // create sound effect variables
+        SoundEffect jumpSnd, bumpSnd, dieSnd, fanfareSnd, keySnd; // create sound effect variables
         Song BGmusic, gameOverMusic; // create background music variable(s)
         float playTime = 0, previousTime = 0;
         public bool hasGem, restartLevel, winScreen, hasKey = false;
@@ -62,7 +62,6 @@ namespace PlatformerGame
             UITextFont = Content.Load<SpriteFont>("UI Font"); // load UI font ( text )
             symbolFont = Content.Load<SpriteFont>("SymbolFont"); // load Symbol font ( symbols )
             jumpSnd = Content.Load<SoundEffect>("jump"); // load jump sound effect
-            winSnd = Content.Load<SoundEffect>("youWin"); // load win sound effect
             bumpSnd = Content.Load<SoundEffect>("bump"); // load collision sound effect
             fanfareSnd = Content.Load<SoundEffect>("fanfare"); // load fanfare sound when touching gem
             dieSnd = Content.Load<SoundEffect>("die"); // load death sound effect
@@ -258,7 +257,6 @@ namespace PlatformerGame
                 _spriteBatch.Draw(endScreenTxr, new Rectangle(0, 0, screenSize.X, screenSize.Y), Color.White); // draws end screen background (blue backdrop)
                 _spriteBatch.DrawString(UITextFont, "YOU WIN", new Vector2((screenSize.X / 2) - (textSize.X / 2), (screenSize.Y / 2) - (textSize.Y / 2)), Color.White); // draws the end screen text
                 MediaPlayer.Stop(); // stops background music
-                winSnd.Play(); // plays win sound
             }
             _spriteBatch.End();
 
