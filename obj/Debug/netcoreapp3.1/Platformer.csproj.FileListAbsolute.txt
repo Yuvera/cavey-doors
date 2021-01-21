@@ -6,12 +6,6 @@ C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Content
 C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Content\spriteSheet2.xnb
 C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Content\SymbolFont.xnb
 C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Content\UI Font.xnb
-C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Platformer.exe
-C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Platformer.deps.json
-C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Platformer.runtimeconfig.json
-C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Platformer.runtimeconfig.dev.json
-C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Platformer.dll
-C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Platformer.pdb
 C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
 C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
 C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
@@ -21,13 +15,10 @@ C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\runtime
 C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
 C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
 C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
-C:\Users\law8\source\repos\Platformer\Platformer\obj\Debug\netcoreapp3.1\Platformer.csprojAssemblyReference.cache
 C:\Users\law8\source\repos\Platformer\Platformer\obj\Debug\netcoreapp3.1\Platformer.AssemblyInfoInputs.cache
 C:\Users\law8\source\repos\Platformer\Platformer\obj\Debug\netcoreapp3.1\Platformer.AssemblyInfo.cs
 C:\Users\law8\source\repos\Platformer\Platformer\obj\Debug\netcoreapp3.1\Platformer.csproj.CoreCompileInputs.cache
 C:\Users\law8\source\repos\Platformer\Platformer\obj\Debug\netcoreapp3.1\Platformer.csproj.CopyComplete
-C:\Users\law8\source\repos\Platformer\Platformer\obj\Debug\netcoreapp3.1\Platformer.dll
-C:\Users\law8\source\repos\Platformer\Platformer\obj\Debug\netcoreapp3.1\Platformer.pdb
 C:\Users\law8\source\repos\Platformer\Platformer\obj\Debug\netcoreapp3.1\Platformer.genruntimeconfig.cache
 C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Content\die.xnb
 C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Content\music1.ogg
@@ -46,3 +37,12 @@ C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Content
 C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Content\Controls\Button.xnb
 C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Content\endScreen.xnb
 C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Content\youWin.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Cavey Doors.exe
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Cavey Doors.deps.json
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Cavey Doors.runtimeconfig.json
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Cavey Doors.runtimeconfig.dev.json
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Cavey Doors.dll
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Cavey Doors.pdb
+C:\Users\law8\source\repos\Platformer\Platformer\obj\Debug\netcoreapp3.1\Cavey Doors.dll
+C:\Users\law8\source\repos\Platformer\Platformer\obj\Debug\netcoreapp3.1\Cavey Doors.pdb
+C:\Users\law8\source\repos\Platformer\Platformer\obj\Debug\netcoreapp3.1\Platformer.csprojAssemblyReference.cache

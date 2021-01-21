@@ -8,6 +8,13 @@
   <PropertyGroup>
     <ApplicationManifest>app.manifest</ApplicationManifest>
     <ApplicationIcon>Icon.ico</ApplicationIcon>
+    <RootNamespace>CaveyDoors</RootNamespace>
+    <AssemblyName>Cavey Doors</AssemblyName>
+    <Authors>Yuvera</Authors>
+    <Company />
+    <Description>Simple Platformer</Description>
+    <RepositoryUrl>https://github.com/Yuvera/platformer</RepositoryUrl>
+    <PackageId>CaveyDoors</PackageId>
   </PropertyGroup>
   <ItemGroup>
     <None Remove="Icon.ico" />

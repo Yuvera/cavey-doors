@@ -1,0 +1,48 @@
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Content\background.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Content\bump.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Content\click.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Content\Controls\Button.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Content\deathScreen.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Content\die.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Content\endScreen.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Content\fanfare.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Content\gameover.ogg
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Content\gameover.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Content\jump.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Content\music1.ogg
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Content\music1.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Content\particle.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Content\spriteSheet1.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Content\spriteSheet2.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Content\spriteSheet3.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Content\SymbolFont.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Content\tink.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Content\titleScreen.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Content\UI Font.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Content\UIItemGem.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Content\UIItemKey.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Content\UIItemSlots.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Content\youWin.xnb
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\law8\source\repos\Platformer\Platformer\obj\Release\netcoreapp3.1\Platformer.AssemblyInfoInputs.cache
+C:\Users\law8\source\repos\Platformer\Platformer\obj\Release\netcoreapp3.1\Platformer.AssemblyInfo.cs
+C:\Users\law8\source\repos\Platformer\Platformer\obj\Release\netcoreapp3.1\Platformer.csproj.CoreCompileInputs.cache
+C:\Users\law8\source\repos\Platformer\Platformer\obj\Release\netcoreapp3.1\Platformer.csproj.CopyComplete
+C:\Users\law8\source\repos\Platformer\Platformer\obj\Release\netcoreapp3.1\Platformer.genruntimeconfig.cache
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Cavey Doors.exe
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Cavey Doors.deps.json
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Cavey Doors.runtimeconfig.json
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Cavey Doors.runtimeconfig.dev.json
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Cavey Doors.dll
+C:\Users\law8\source\repos\Platformer\Platformer\bin\Release\netcoreapp3.1\Cavey Doors.pdb
+C:\Users\law8\source\repos\Platformer\Platformer\obj\Release\netcoreapp3.1\Platformer.csprojAssemblyReference.cache
+C:\Users\law8\source\repos\Platformer\Platformer\obj\Release\netcoreapp3.1\Cavey Doors.dll
+C:\Users\law8\source\repos\Platformer\Platformer\obj\Release\netcoreapp3.1\Cavey Doors.pdb

@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CaveyDoors</id>
+    <version>1.0.0</version>
+    <authors>Yuvera</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple Platformer</description>
+    <repository url="https://github.com/Yuvera/platformer" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="MonoGame.Content.Builder.Task" version="3.8.0.1641" exclude="Build,Analyzers" />
+        <dependency id="MonoGame.Framework.DesktopGL" version="3.8.0.1641" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/background.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/bump.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/click.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Controls/Button.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/deathScreen.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/die.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/endScreen.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/fanfare.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/gameover.ogg" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/gameover.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/jump.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/music1.ogg" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/music1.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/particle.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/spriteSheet1.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/spriteSheet2.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/spriteSheet3.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/SymbolFont.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/tink.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/titleScreen.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/UI Font.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/UIItemGem.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/UIItemKey.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/UIItemSlots.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/youWin.xnb" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Cavey Doors.runtimeconfig.json" target="lib\netcoreapp3.1\Cavey Doors.runtimeconfig.json" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\bin\Debug\netcoreapp3.1\Cavey Doors.dll" target="lib\netcoreapp3.1\Cavey Doors.dll" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\background.xnb" target="content\Content\bin\DesktopGL\Content\background.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\background.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\background.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\bump.xnb" target="content\Content\bin\DesktopGL\Content\bump.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\bump.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\bump.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\click.xnb" target="content\Content\bin\DesktopGL\Content\click.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\click.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\click.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\Controls\Button.xnb" target="content\Content\bin\DesktopGL\Content\Controls\Button.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\Controls\Button.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\Controls\Button.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\deathScreen.xnb" target="content\Content\bin\DesktopGL\Content\deathScreen.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\deathScreen.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\deathScreen.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\die.xnb" target="content\Content\bin\DesktopGL\Content\die.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\die.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\die.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\endScreen.xnb" target="content\Content\bin\DesktopGL\Content\endScreen.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\endScreen.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\endScreen.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\fanfare.xnb" target="content\Content\bin\DesktopGL\Content\fanfare.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\fanfare.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\fanfare.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\gameover.ogg" target="content\Content\bin\DesktopGL\Content\gameover.ogg" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\gameover.ogg" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\gameover.ogg" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\gameover.xnb" target="content\Content\bin\DesktopGL\Content\gameover.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\gameover.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\gameover.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\jump.xnb" target="content\Content\bin\DesktopGL\Content\jump.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\jump.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\jump.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\music1.ogg" target="content\Content\bin\DesktopGL\Content\music1.ogg" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\music1.ogg" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\music1.ogg" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\music1.xnb" target="content\Content\bin\DesktopGL\Content\music1.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\music1.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\music1.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\particle.xnb" target="content\Content\bin\DesktopGL\Content\particle.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\particle.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\particle.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\spriteSheet1.xnb" target="content\Content\bin\DesktopGL\Content\spriteSheet1.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\spriteSheet1.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\spriteSheet1.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\spriteSheet2.xnb" target="content\Content\bin\DesktopGL\Content\spriteSheet2.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\spriteSheet2.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\spriteSheet2.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\spriteSheet3.xnb" target="content\Content\bin\DesktopGL\Content\spriteSheet3.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\spriteSheet3.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\spriteSheet3.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\SymbolFont.xnb" target="content\Content\bin\DesktopGL\Content\SymbolFont.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\SymbolFont.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\SymbolFont.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\tink.xnb" target="content\Content\bin\DesktopGL\Content\tink.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\tink.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\tink.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\titleScreen.xnb" target="content\Content\bin\DesktopGL\Content\titleScreen.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\titleScreen.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\titleScreen.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\UI Font.xnb" target="content\Content\bin\DesktopGL\Content\UI Font.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\UI Font.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\UI Font.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\UIItemGem.xnb" target="content\Content\bin\DesktopGL\Content\UIItemGem.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\UIItemGem.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\UIItemGem.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\UIItemKey.xnb" target="content\Content\bin\DesktopGL\Content\UIItemKey.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\UIItemKey.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\UIItemKey.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\UIItemSlots.xnb" target="content\Content\bin\DesktopGL\Content\UIItemSlots.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\UIItemSlots.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\UIItemSlots.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\youWin.xnb" target="content\Content\bin\DesktopGL\Content\youWin.xnb" />
+    <file src="C:\Users\law8\source\repos\Platformer\Platformer\Content\bin\DesktopGL\Content\youWin.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\youWin.xnb" />
+  </files>
+</package>

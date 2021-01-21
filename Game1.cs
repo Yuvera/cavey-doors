@@ -343,6 +343,7 @@ namespace PlatformerGame
 
             levels.Add(new List<PlatformSprite>());
             levels[7].Add(new PlatformSprite(platformSheetTxr, whiteBox, new Vector2(35, 100)));
+            levels[7].Add(new PlatformSprite(platformSheetTxr, whiteBox, new Vector2(100, 100)));
             levels[7].Add(new PlatformSprite(platformSheetTxr, whiteBox, new Vector2(259, 100)));
             gems.Add(new Vector2(35, 30));
             doors.Add(new Vector2(35, 36));
@@ -354,9 +355,9 @@ namespace PlatformerGame
             levels[8].Add(new PlatformSprite(platformSheetTxr, whiteBox, new Vector2(226, 253)));
             levels[8].Add(new PlatformSprite(platformSheetTxr, whiteBox, new Vector2(406, 253)));
             levels[8].Add(new PlatformSprite(platformSheetTxr, whiteBox, new Vector2(586, 253)));
-            levels[8].Add(new PlatformSprite(platformSheetTxr, whiteBox, new Vector2(714, 180)));
-            levels[8].Add(new PlatformSprite(platformSheetTxr, whiteBox, new Vector2(406, 100)));
-            levels[8].Add(new PlatformSprite(platformSheetTxr, whiteBox, new Vector2(586, 100)));
+            levels[8].Add(new PlatformSprite(platformSheetTxr, whiteBox, new Vector2(714, 190)));
+            levels[8].Add(new PlatformSprite(platformSheetTxr, whiteBox, new Vector2(406, 120)));
+            levels[8].Add(new PlatformSprite(platformSheetTxr, whiteBox, new Vector2(586, 120)));
             gems.Add(new Vector2(406, 50));
             doors.Add(new Vector2(49, 189));
             keys.Add(new Vector2(586, 50));
@@ -369,12 +370,12 @@ namespace PlatformerGame
             levels[9].Add(new PlatformSprite(platformSheetTxr, whiteBox, new Vector2(337, 102)));
             levels[9].Add(new PlatformSprite(platformSheetTxr, whiteBox, new Vector2(433, 102)));
             levels[9].Add(new PlatformSprite(platformSheetTxr, whiteBox, new Vector2(625, 102)));
-            levels[9].Add(new PlatformSprite(platformSheetTxr, whiteBox, new Vector2(625, 221)));
-            levels[9].Add(new PlatformSprite(platformSheetTxr, whiteBox, new Vector2(433, 221)));
-            levels[9].Add(new PlatformSprite(platformSheetTxr, whiteBox, new Vector2(241, 221)));
-            levels[9].Add(new PlatformSprite(platformSheetTxr, whiteBox, new Vector2(49, 221)));
-            gems.Add(new Vector2(740, 160));
-            doors.Add(new Vector2(49, 157));
+            levels[9].Add(new PlatformSprite(platformSheetTxr, whiteBox, new Vector2(625, 235)));
+            levels[9].Add(new PlatformSprite(platformSheetTxr, whiteBox, new Vector2(433, 235)));
+            levels[9].Add(new PlatformSprite(platformSheetTxr, whiteBox, new Vector2(241, 235)));
+            levels[9].Add(new PlatformSprite(platformSheetTxr, whiteBox, new Vector2(49, 235)));
+            gems.Add(new Vector2(720, 170));
+            doors.Add(new Vector2(49, 171));
             keys.Add(new Vector2(625, 50));
             finalDoor.Add(new Vector2(900, 900));
 
